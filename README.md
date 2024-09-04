@@ -18,8 +18,7 @@ _Al ser un proyecto pequeño, utilicé sólo lo necesario_
 
 * Se debe rotar la matriz NxN:</br>
 
-![Video](https://drive.google.com/file/d/16-H36de8YmqWm-nG9VmfNeIRKlnRRHpZ/view?usp=sharing)
-
+[![Watch the video](https://drive.google.com/uc?export=view&id=11X_c-yZMOIm4MA2I4NISPmK_-hRIoddR)](https://drive.google.com/file/d/16-H36de8YmqWm-nG9VmfNeIRKlnRRHpZ/view?usp=sharing)
 
 
 * Separar la vista de la lógica de la aplicación:</br>
@@ -31,15 +30,19 @@ _Para este propósito usamos Bloc_
 
 * Se considerarán las buena prácticas y estándares de programación: </br>_Ya que no tenemos conexiones ni entidades no creamos otras capas que no son necesarias por el momento, sólo la capa de aplicación donde tenemos la lógica y la capa de presentación._</br>
 
-![Estructura de carpetas](https://drive.google.com/file/d/1Qa759qqdECj4Y9M5OxLssog3CVtn2GVT/view?usp=sharing)
+
+![Estructura de carpetas](https://drive.google.com/uc?export=view&id=1Qa759qqdECj4Y9M5OxLssog3CVtn2GVT)
 
 * Al rotar la matriz se debe mostrar un mensaje tipo toast con el valor anterior de la matriz este toast no debe ser una libreria de flutter. Puede ser una libreria de android y un pod de ios.</br>
 _Para este proposito usé scaffoldMessenger, es una librería nativa de Flutter, de la siguiente manera_</br>
 
-![Snackbar](https://drive.google.com/file/d/16N6LAI8OCc_CdznR3xDQDjGGRQzI8hV-/view?usp=sharing)
+![Snackbar](https://drive.google.com/uc?export=view&id=16N6LAI8OCc_CdznR3xDQDjGGRQzI8hV-)
 
 
 * Se incluye también el unit testing del bloc</br>
 
-![Unit Testing Estructure](https://drive.google.com/file/d/1qvZn353Y6nJT86AgVIyvror1n0LVcMit/view?usp=sharing)
+![Unit Testing Estructure](https://drive.google.com/uc?export=view&id=1qvZn353Y6nJT86AgVIyvror1n0LVcMit)
+
+
+
 
