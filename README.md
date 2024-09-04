@@ -6,6 +6,8 @@ En el sgt documento se encuentran los  [Requerimientos](https://docs.google.com/
 
 Los recursos se encuentran en el siguiente enlace de  [Recursos](https://drive.google.com/drive/folders/1UL6pTvqsONt4LAZ30npSxJxE7drAgCQf?usp=sharing) donde podrá encontrar el APK y las imágenes que se muestran a continuación.
 
+La versión de Flutter utilizada es la 3.19.3
+
 ## Liberias utilizadas 🛠️
 
 _Al ser un proyecto pequeño, utilicé sólo lo necesario_
