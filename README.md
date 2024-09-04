@@ -2,7 +2,9 @@
 
 ## Requerimientos
 
-En el sgt documento se encuentran los requerimientos  [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx)
+En el sgt documento se encuentran los  [Requerimientos](https://docs.google.com/document/d/1IYL7RI4SewwJbJ5wVkcCT5E7Tjgs3Gj-/edit?usp=sharing&ouid=109397545045871326330&rtpof=true&sd=true)
+
+Los recursos se encuentran en el siguiente enlace de  [Recursos](https://drive.google.com/drive/folders/1UL6pTvqsONt4LAZ30npSxJxE7drAgCQf?usp=sharing) donde podrá encontrar el APK y las imágenes que se muestran a continuación.
 
 ## Liberias utilizadas 🛠️
 
